@@ -1,1 +1,1 @@
-# Python-smaple-project-on-CSV-file-into-PDF-file
+# Python-sample-project-on-CSV-file-into-PDF-file
